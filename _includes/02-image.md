@@ -1,1 +1,1 @@
-![Algo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.algo.com%2Fwp-content%2Fuploads%2F2020%2F11%2FAlgoLogo_tagline_LightBackground.png&imgrefurl=https%3A%2F%2Fwww.algo.com%2F&tbnid=rM0L3q4CNOk8-M&vet=12ahUKEwib18vn9o_2AhXwo3IEHW9bCHUQMygAegUIARDbAQ..i&docid=MKGTYuNPmU_YwM&w=812&h=341&q=algo%20pics&ved=2ahUKEwib18vn9o_2AhXwo3IEHW9bCHUQMygAegUIARDbAQ)
+[AlgoInc.](http://algo.ai)
