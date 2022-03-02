@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+[x] Need to complete the tarining.
+[x] Deliverables NRST.
