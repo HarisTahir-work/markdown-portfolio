@@ -1,1 +1,1 @@
-[AlgoInc.](http://algo.ai)
+[AlgoInc.](https://www.algo.com/)
